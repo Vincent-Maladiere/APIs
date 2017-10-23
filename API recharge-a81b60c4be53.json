@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-recharge",
+  "private_key_id": "a81b60c4be53675d1ebdd93179226270d4b9dcd0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCUvFLPpNudgkrm\nj0TfUwPtH3w7fl/rinPKOQTQ47VowzETT0DQwJfXwLAaVKey2t9sbumZLzb1RCgt\n3WD0biyja5qFFIbasGmGd0d7M56klj3YHcmezYRGb2YFGdbU+u1lO+Na8LgvvshA\nlATe/QI6Fd92abXiIOf1ss4yjdVCvaeX3Gpps8fHZlEINUXyjdVacQE3Y+dWx6yl\nI0nAgOTMsKXe2FsVsY3SqnW7/YXU8W2Z+dXdJ9sXUMErRvEkT6Pjngg6bTNq6zsB\n50fo/ryedWXTptwqKts9EC/hYaaTb7y+zhZtlUEwq92oLica8gmGjsr4Gy7SfA5T\njtlGU0crAgMBAAECggEALSmyC5MHjKBPlgrS4u0WOB5jXr1U6vSzjCgcKkG6iAEd\nGbvq9nhEoyLDVnt2IH0NcqOLExSfH4J+oM6j7hS2QTkfRmGhQS5oHIiDkAlwlpF4\nXfNNkYbeL3UMCWh7L1iyVRcGRkrp4rWPoOxRPlSdJH4XyKD4tZ1AUf7lVbxzkTwG\n2ZSmwGuOUG6Gs65/1QyA+/0uHOht5cxOTETtRxy+7tCNn/D9iO5ncVo3LPEdIL6a\n0fyDD1viZdVyNkl0JTBjEqqna5VFNR+JR9hKSE4nzMWCqxlx2PAQ33zdKN7Ow/x6\nB/h30xs1/zgeIkmPb1Q8R0Oxq6cOOwMVBGLMwJoh4QKBgQDLQ1e+tbIz3Tn1ELHI\nbv3Eun834S7H67MC1w1AblH4/YegKviNjtHPUIfl6ix0Zk6IQFk+ikA7JQRXWEgO\n/Obnf/S5YyiSNCUNYgV429eDJaOC5Hh+PK3slHMdfzW5jibdqLgDEwoLXubekfmM\nTLyOSUxyEOXIw8H5Ef1fMRAlDQKBgQC7U0oo1V9MPCJI5jViZthjQkOt70Kesei3\nsOt2GeoYr4VHj8TfJugtqMISlVnDc1KGdIxNsKxtItMgwh84AI1Rk36SUvZnjQ71\nmHO229n8WsCASGgW/ShqhabXIkMWGVzcw9NJY6oE2i5qPcey7XKeIj6UMLtRWFhq\nrpvOHtj/FwKBgAq9kTpjkXoKG5Dmg+5qZwBpNmW2gWlQ/BGPWYTpD23Pv8Xn32Bj\nhpSk1bmBaT3xVf7/H3gdiA1YBGW1JYGdPXpIGZ9eLPukw7x0TIO5Yibs6zn0ZqWN\nAUe6BGcvnKAkcctOqgKHlAVLy3lBT2VpfKEsIFz6pZm5Nlu55qCMECVVAoGANXtf\nJe9daO+WPkfzn+eLCjPGDOfNlm9m6OMLJsnZSzj5jWffpnJ+QWL4HcQkP6gyPI8T\n665wXCxgKO8jaKLHti2tKmujTAc66SWgi+mS//iNE1MY3M9kdZ04+B0hGDMfjywd\nq8tXpFEChXSkClK+saVHRpnvMRdPDw5RD3VBMPsCgYB8o2+9RcHQnJQO0QBedRIB\nTVvjW5SDa5lIPYrvp3VnmHM4HF0XqvAJXi5YMjyk2VWnliZzhL6dksybZ0A5tLqO\nF9EcvlBTFpDqwVTTWfwqPzwPMtEvyIBpu/HvgQ9fEPh/uibSyxSPL94Iih/ZZtgi\npf/WPaBozLdmpFiPwnIpAA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-recharge@api-recharge.iam.gserviceaccount.com",
+  "client_id": "116503871079610988638",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-recharge%40api-recharge.iam.gserviceaccount.com"
+}
